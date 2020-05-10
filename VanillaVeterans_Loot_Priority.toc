@@ -1,0 +1,8 @@
+## Interface: 11303
+## Title: VanillaVeterans_Loot_Priority
+## Author: Eatthat
+## Version: 1.1 P4
+
+loot_table.lua
+main_functions.lua
+loot_prio_hook.lua
