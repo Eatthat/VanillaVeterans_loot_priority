@@ -1,7 +1,7 @@
 ## Interface: 11303
 ## Title: VanillaVeterans_Loot_Priority
 ## Author: Eatthat
-## Version: 1.1 P4
+## Version: 1.2 P4
 
 loot_table.lua
 main_functions.lua
