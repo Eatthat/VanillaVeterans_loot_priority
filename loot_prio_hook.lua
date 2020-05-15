@@ -12,7 +12,7 @@ GameTooltip:HookScript("OnTooltipSetItem", function(tooltip, ...)
 
   
   if priority then
-  	prio = string.format("|c008aecffVanilla Veterans\n %s", priority)
+  	prio = string.format("|c008aecffVanilla Veterans v1.2 P4\n %s", priority)
   	tooltip:AddLine(prio)
   
 end
@@ -26,7 +26,7 @@ ItemRefTooltip:HookScript("OnTooltipSetItem", function(tooltip, ...)local itemna
   end
   
   if priority then
-  	prio = string.format("|c008aecffVanilla Veterans\n %s", priority)
+  	prio = string.format("|c008aecffVanilla Veterans v1.2 P4\n %s", priority)
   	tooltip:AddLine(prio)
 	
   end
